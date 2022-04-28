@@ -2,6 +2,7 @@ from cgitb import text
 from email.policy import default
 from enum import unique
 from http import server
+import tkinter
 from sqlite3 import Timestamp
 import string
 from xmlrpc.client import Boolean
