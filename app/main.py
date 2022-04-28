@@ -1,4 +1,5 @@
 from tkinter.messagebox import NO
+import _tkinter
 from xmlrpc.client import Boolean
 from fastapi import Body, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
