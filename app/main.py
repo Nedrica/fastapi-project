@@ -35,7 +35,7 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "welcome to KRYPTON CONSOLIDATE"}
+    return {"message": "welcome to KRYPTON CONSOLIDATES"}
 
 
 
